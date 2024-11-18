@@ -1,0 +1,19 @@
+{
+  "name": "Bierkasse",
+  "short-name": "Bierkasse",
+  "description": "Bierkasse",
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "img/icon.png",
+      "type": "image/png"
+    }
+  ]
+}
