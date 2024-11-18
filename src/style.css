@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('assets/fonts/poppins/Poppins-Medium.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+html, body {
+    font-family: 'Poppins', sans-serif;
+    user-select: none;
+    -webkit-user-select: none; /* Safari */
+    touch-action: manipulation; /* Deaktiviert Doppeltipp-Zoom */
+    
+    }
+    
+    
